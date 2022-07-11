@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ealhaverkort@gmail.com
+	name = Eva Haverkort
